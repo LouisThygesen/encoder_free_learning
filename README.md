@@ -1,2 +1,2 @@
-# encoder_free_learning
-Bachelor project 
+# BSc project: Encoder free learning of hierarchical VAEs
+The repository includes all the code used to generate the results for the bachelor project report. To run experiments the code should be structured in a directory so that (1) the scripts from 'main' and 'models' is placed in a shared subdirectory (the name does not matter) and (2) the content of 'dataset' should be placed in a subdirectory called 'data'. The code runs on Linux. 
